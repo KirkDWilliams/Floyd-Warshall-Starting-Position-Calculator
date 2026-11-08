@@ -1,0 +1,136 @@
+{
+  "nodes": 20,
+  "targets": 3,
+  "edges": [
+    {
+      "from": 0,
+      "to": 1,
+      "weight": 1
+    },
+    {
+      "from": 0,
+      "to": 2,
+      "weight": 1
+    },
+    {
+      "from": 0,
+      "to": 4,
+      "weight": 1
+    },
+    {
+      "from": 1,
+      "to": 7,
+      "weight": 1
+    },
+    {
+      "from": 2,
+      "to": 4,
+      "weight": 1
+    },
+    {
+      "from": 4,
+      "to": 7,
+      "weight": 1
+    },
+    {
+      "from": 4,
+      "to": 8,
+      "weight": 1
+    },
+    {
+      "from": 3,
+      "to": 7,
+      "weight": 1
+    },
+    {
+      "from": 3,
+      "to": 6,
+      "weight": 1
+    },
+    {
+      "from": 5,
+      "to": 8,
+      "weight": 1
+    },
+    {
+      "from": 5,
+      "to": 13,
+      "weight": 1
+    },
+    {
+      "from": 8,
+      "to": 12,
+      "weight": 1
+    },
+    {
+      "from": 12,
+      "to": 7,
+      "weight": 1
+    },
+    {
+      "from": 11,
+      "to": 7,
+      "weight": 1
+    },
+    {
+      "from": 11,
+      "to": 3,
+      "weight": 1
+    },
+    {
+      "from": 16,
+      "to": 6,
+      "weight": 1
+    },
+    {
+      "from": 14,
+      "to": 9,
+      "weight": 1
+    },
+    {
+      "from": 7,
+      "to": 17,
+      "weight": 1
+    },
+    {
+      "from": 13,
+      "to": 9,
+      "weight": 1
+    },
+    {
+      "from": 16,
+      "to": 10,
+      "weight": 1
+    },
+    {
+      "from": 16,
+      "to": 11,
+      "weight": 1
+    },
+    {
+      "from": 12,
+      "to": 17,
+      "weight": 1
+    },
+    {
+      "from": 12,
+      "to": 18,
+      "weight": 1
+    },
+    {
+      "from": 13,
+      "to": 18,
+      "weight": 1
+    },
+    {
+      "from": 13,
+      "to": 19,
+      "weight": 1
+    },
+    {
+      "from": 14,
+      "to": 19,
+      "weight": 1
+    }
+  ]
+}
